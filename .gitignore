@@ -39,6 +39,3 @@ coverage/
 # MacOS Finder tags
 .AppleDouble
 .LSOverride
-
-# Optional: if you generate screenshots or other local assets not meant to be committed
-/screenshots/
