@@ -1,0 +1,17 @@
+{
+  "name": "scrimbas_my_first_personalized_web_app_by_mickey_codes",
+  "description": "Converted to Vite React from Webpack",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}

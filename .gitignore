@@ -1,0 +1,44 @@
+# Vite build output
+dist/
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Test coverage folder (if used)
+coverage/
+
+# Miscellaneous temporary files
+*.local
+*.log
+*.swp
+*.bak
+*.tmp
+
+# MacOS Finder tags
+.AppleDouble
+.LSOverride
+
+# Optional: if you generate screenshots or other local assets not meant to be committed
+/screenshots/
