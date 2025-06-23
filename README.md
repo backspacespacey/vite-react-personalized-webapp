@@ -10,10 +10,15 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License" />
   </a>
+  <a href="https://vite-react-personalized-webapp.netlify.app/">
+    <img src="https://img.shields.io/badge/live%20demo-online-brightgreen?style=flat&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 
 A React-based web app that fetches and displays coding-related (or photos of your choosing) photos from Unsplash, powered by Vite for a more modern developer experience instead of Webpack.
+
+**👉 [Check out the live demo here](https://vite-react-personalized-webapp.netlify.app/)**
 
 ---
 
