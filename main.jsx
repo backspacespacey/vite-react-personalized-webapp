@@ -1,19 +1,20 @@
 /* main.jsx */
 
-import React from 'react'
-import ReactDOM from 'react-dom'
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 const { useState, useEffect, useRef } = React;
 const clientID = "t-FQWYk2PUt13LidWIblzu7SNd9HVOQsK3QA7Lg1Mg4";
-const utm = "?utm_source=scrimba_degree&utm_medium=referral"
+const utm = "?utm_source=scrimba_degree&utm_medium=referral";
 var API_KEY = 'NpRvp4rxQt7jYkbu95fWvCMrZKxyQKlWcNZfzeopGfI';
 
 const loadData = (options) => {
   fetch(options.url)
     .then(function(response){
-        return response.json()
+        return response.json();
     })
     .then(function(data){ 
-       if (options.onSuccess) options.onSuccess(data)
+       if (options.onSuccess) options.onSuccess(data);
     })
 }
 
