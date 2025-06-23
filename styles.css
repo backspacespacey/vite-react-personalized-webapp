@@ -41,7 +41,7 @@
 body {
     --background-image: var(--codingIcon);
     --main-color: var(--gloom);
-    font-family: var(--Inconsolat);
+    font-family: var(--Inconsolata);
 }
 
 .grid {
