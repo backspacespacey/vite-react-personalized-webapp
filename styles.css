@@ -40,19 +40,15 @@
 
 body {
     --background-image: var(--codingIcon);
-
     --main-color: var(--gloom);
-
     font-family: var(--Inconsolat);
 }
-
 
 .grid {
    /* change column-count to another number to change the number of columns displayed */
    column-count: 4;
    column-gap: 10px;
 }
-
 
 .img {
     border-image: var(--wooden) 100;

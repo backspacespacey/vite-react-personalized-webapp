@@ -1,6 +1,6 @@
 # Mickey’s Personalized Web App Project from Scrimba.com
 
-<p align="center">
+<p style="text-align: center;">
   <a href="https://vitejs.dev/">
     <img src="https://img.shields.io/badge/built%20with-vite-646cff?style=flat&logo=vite&logoColor=white" alt="Vite" />
   </a>
